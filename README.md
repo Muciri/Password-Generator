@@ -21,3 +21,8 @@
 4. Inicie o aplicativo
     ```bash
     npm run dev
+
+## Preview
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Muciri/Password-Generator/refs/heads/main/preview.png">
+</p>
