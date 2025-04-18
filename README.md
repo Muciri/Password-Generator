@@ -1,9 +1,8 @@
 # GERADOR DE SENHAS
 ---
-## aplictivo feito com intúito de testar a framework Electron JS (uma framework que possibilita a criação de aplicativos para Desktop utilizando HTML, CSS e Javascript)
+## aplictivo feito com intúito de testar o framework Electron JS 
 
 ---
-
 
 ## Como rodar
 
